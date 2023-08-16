@@ -1,6 +1,6 @@
 # Portfolio: Small Projects with Big Potential
 
-![Portfolio Banner](/main/Portfolio_banner.png)
+![Portfolio Banner](Portfolio_banner.png)
 
 Welcome to my portfolio repository! Here, I've curated a collection of small projects that demonstrate my skills, creativity, and potential as a [Your Profession, e.g., Software Developer]. Each project showcases a unique aspect of my abilities and passion for [Your Field of Interest, e.g., Web Development, Data Science, etc.].
 
