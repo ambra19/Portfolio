@@ -27,32 +27,23 @@ I'm a second year Computer Science undergraduate at the Vrije Universiteit Amste
 - 🚀Understanding the way binaries work and how to parse them in useful blocks of data
 - 🚀Using practical examples and logical analysis when working with dynamic memory (also being very careful where I allocate memory 😄 )
 - 🚀Thoroughly studying the multiple implementations of a stack and how its logic fundamentally sustains the entire project
-- **Demo:** 
-
-### [Project Name 3: Creative Project Title]
-
-![Project 3](/path/to/project3-screenshot.png)
-
-- **Description:** Explain how this project demonstrates creativity and problem-solving.
-- **Technologies:** List the technologies and tools used (e.g., Unity, C#, Blender).
-- **Demo:** Provide a link to a live demo or project repository.
+- **Demo:** https://github.com/ambra19/IJVM-Emulator (it is a private repository, please let me know if you want to have a look at the entire project)
 
 ## Skills
 
-- **Programming Languages:** List programming languages you're proficient in (e.g., Python, JavaScript).
-- **Technologies:** Mention frameworks, libraries, and tools you've used (e.g., React, Node.js, Git).
-- **Problem-Solving:** Highlight your ability to tackle complex problems and find efficient solutions.
+- **Programming Languages:** C, C++, Python, Javascript
+- **Technologies:** Git, Tensorflow
+- **Problem-Solving:** An in-depth study of every problem is the first mandatory step in my problem-solving mantra. 
 
 ## Contact
 
 I'm excited about potential collaborations and opportunities. Let's connect:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Email: [Your Email Address](mailto:your.email@example.com)
-- Twitter: [@YourUsername](https://twitter.com/yourusername)
+- LinkedIn: [Mihu Ambra](https://www.linkedin.com/in/ambra-m-b897bb23b/)
+- Email: [Gmail](mailto:mihuambra@gmail.com)
 
 ## Future Endeavors
 
-While these projects represent a snapshot of my capabilities, I'm enthusiastic about the potential for growth and exploration. I'm actively seeking opportunities that challenge and inspire me to contribute to innovative solutions in [Your Field].
+While these projects represent a snapshot of my capabilities, I'm enthusiastic about the potential for growth and exploration. I'm actively seeking opportunities that challenge and inspire me to contribute to innovative solutions.
 
 ---
 
