@@ -20,13 +20,14 @@ I'm a second year Computer Science undergraduate at the Vrije Universiteit Amste
 
 ### [Project 2: IJVM Emulator]
 
-![Project 2](/path/to/project2-screenshot.png)
-
 - **Description:** This project, undertaken during my final semester of the first year of my computer science degree, delves into the complexities of emulating the Improved Java Virtual Machine (IJVM). This project is an in-depth exploration of the IJVM's instruction set, stack-based architecture and memory management model.
 - **Technologies:** C programming language, x86 Assembly, Memory Management
 - **Challenges:** As a first-year endeavor, I grappled with mastering C syntax, deciphering bytecode and x86 assembly, managing dynamic memory, and embracing the intricacies of a stack-based architecture.
 - **Ways of coping with them:**
-- **Demo:** Provide a link to a live demo or project repository.
+- 🚀Understanding the way binaries work and how to parse them in useful blocks of data
+- 🚀Using practical examples and logical analysis when working with dynamic memory (also being very careful where I allocate memory 😄 )
+- 🚀Thoroughly studying the multiple implementations of a stack and how its logic fundamentally sustains the entire project
+- **Demo:** 
 
 ### [Project Name 3: Creative Project Title]
 
