@@ -2,7 +2,7 @@
 
 ![Portfolio Banner](portfolio_banner.png)
 
-Welcome to my portfolio repository! Here, I've curated a collection of small projects that demonstrate my skills, creativity, and potential as a working professional. Each project showcases a unique aspect of my abilities and passion for Machine Learning, Deep Learning, Low Level Programming and Software development.
+Welcome to my portfolio repository! Here, I've curated a collection of small projects that demonstrate my skills, creativity, and potential as a working professional. Each project showcases a unique aspect of my abilities and passion for Software development and engineering, Machine Learning, Deep Learning and Low Level Programming.
 
 ## About Me
 
