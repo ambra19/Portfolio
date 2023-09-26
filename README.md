@@ -18,11 +18,6 @@ I'm a second year Computer Science undergraduate at the Vrije Universiteit Amste
 - **Description:** CogniCraft is a self-developed project that is meant to empower businesses with cutting-edge AI solutions, revolutionizing processes, enhancing customer experiences, and uncovering new opportunities.
 - **Technologies:** Technologies used in this project include Python, Tensorflow.
 - **Demo:** Currently not available.
-## Skills
-
-- **Programming Languages:** C, C++, Python, Javascript
-- **Technologies:** Git, Tensorflow
-- **Problem-Solving:** An in-depth study of every problem is the first mandatory step in my problem-solving mantra.
 
  ### [Project 2: IJVM Emulator]
 
@@ -33,7 +28,13 @@ I'm a second year Computer Science undergraduate at the Vrije Universiteit Amste
 - 🚀Understanding the way binaries work and how to parse them in useful blocks of data
 - 🚀Using practical examples and logical analysis when working with dynamic memory (also being very careful where I allocate memory 😄 )
 - 🚀Thoroughly studying the multiple implementations of a stack and how its logic fundamentally sustains the entire project
- 
+
+ ## Skills
+
+- **Programming Languages:** C, C++, Python, Javascript
+- **Technologies:** Git, Tensorflow
+- **Problem-Solving:** An in-depth study of every problem is the first mandatory step in my problem-solving mantra.
+
 ## Contact
 
 I'm excited about potential collaborations and opportunities. Let's connect:
