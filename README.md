@@ -10,15 +10,7 @@ I'm a second year Computer Science undergraduate at the Vrije Universiteit Amste
 
 ## Projects
 
-### [Project 1 : CogniCraft Ai]
-
-                                      **under maintenance** 
-
-- **Description:** CogniCraft is a self-developed project that is meant to empower businesses with cutting-edge AI solutions, revolutionizing processes, enhancing customer experiences, and uncovering new opportunities.
-- **Technologies:** Technologies used in this project include Python, Tensorflow.
-- **Demo:** Currently not available.
-
-### [Project 2: IJVM Emulator]
+### [Project 1: IJVM Emulator]
 
 - **Description:** This project, undertaken during my final semester of the first year of my computer science degree, delves into the complexities of emulating the Improved Java Virtual Machine (IJVM). This project is an in-depth exploration of the IJVM's instruction set, stack-based architecture and memory management model.
 - **Technologies:** C programming language, x86 Assembly, Memory Management
@@ -29,6 +21,13 @@ I'm a second year Computer Science undergraduate at the Vrije Universiteit Amste
 - 🚀Thoroughly studying the multiple implementations of a stack and how its logic fundamentally sustains the entire project
 - **Demo:** https://github.com/ambra19/IJVM-Emulator (it is a private repository, please let me know if you want to have a look at the entire project)
 
+### [Project 2 : CogniCraft Ai]
+
+                                      **under maintenance** 
+
+- **Description:** CogniCraft is a self-developed project that is meant to empower businesses with cutting-edge AI solutions, revolutionizing processes, enhancing customer experiences, and uncovering new opportunities.
+- **Technologies:** Technologies used in this project include Python, Tensorflow.
+- **Demo:** Currently not available.
 ## Skills
 
 - **Programming Languages:** C, C++, Python, Javascript
