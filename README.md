@@ -15,7 +15,7 @@ I'm a third year Computer Science undergraduate at the Vrije Universiteit Amster
 
 - **Description:** INSYTZ was a start-up that was meant to help start-up founders get more in-depth information regarding their customer's preferences in order to achieve product-market-fit efficiently and in a faster time. The start-up was part of the Minor of Entrepreneurship programme from the University of Amsterdam (UvA).
 - **Technologies:** Technologies used in this project include Python, Pytorch, OpenAI.
-- **Project:** Link to the collab notebook.
+- **Project:** [Link to the collab notebook.](https://colab.research.google.com/drive/1e0qE7Wcq--azn7qeBqPp5Sft-rEf0HBq#scrollTo=ACobbJnIR_ni)
 
  ### [Project 2: IJVM Emulator]
 
