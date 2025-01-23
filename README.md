@@ -6,18 +6,18 @@ Welcome to my portfolio repository! Here, I've curated a collection of small pro
 
 ## About Me
 
-I'm a second year Computer Science undergraduate at the Vrije Universiteit Amsterdam with a deep curiosity for cutting-edge technologies and a drive to create meaningful solutions. My journey in the field of engineering and innovation has given me the tools to approach challenges with an out of the ordinary way of thinking and a commitment to continuous learning.
+I'm a third year Computer Science undergraduate at the Vrije Universiteit Amsterdam with a deep curiosity for cutting-edge technologies and a drive to create meaningful solutions. My journey in the field of engineering and innovation has given me the tools to approach challenges with an out of the ordinary way of thinking and a commitment to continuous learning.
 
 ## Projects
 
 
-### [Project 1 : CogniCraft Ai]
+### [Project 1 : INSYTZ]
 
                                       **under maintenance** 
 
-- **Description:** CogniCraft is a self-developed project that is meant to empower businesses with cutting-edge AI solutions, revolutionizing processes, enhancing customer experiences, and uncovering new opportunities.
-- **Technologies:** Technologies used in this project include Python, Tensorflow.
-- **Demo:** Currently not available.
+- **Description:** INSYTZ was a start-up that was meant to help start-up founders get more in-depth information regarding their customer's preferences in order to achieve product-market-fit efficiently and in a faster time. The start-up was part of the Minor of Entrepreneurship programme from the University of Amsterdam (UvA).
+- **Technologies:** Technologies used in this project include Python, Pytorch, OpenAI.
+- **Project:** Link to the collab notebook.
 
  ### [Project 2: IJVM Emulator]
 
@@ -34,6 +34,7 @@ I'm a second year Computer Science undergraduate at the Vrije Universiteit Amste
 - **Programming Languages:** C, C++, Python, Javascript
 - **Technologies:** Git, Tensorflow
 - **Problem-Solving:** An in-depth study of every problem is the first mandatory step in my problem-solving mantra.
+- **Project:**  Not available due to privacy concerns from my university's programme.
 
 ## Contact
 
